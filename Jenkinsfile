@@ -24,5 +24,5 @@ pipeline {
             sh 'bash jenkins/deploy.sh'
         }
         }
-    
+    }
 
