@@ -23,11 +23,6 @@ pipeline {
         steps {
             sh 'bash jenkins/deploy.sh'
         }
-    }
+        }
+    
 
-}
-//post {
- //   always{
-
-//}
-}
