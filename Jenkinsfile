@@ -34,8 +34,8 @@ sh "bash jenkins/deploy.sh"
 
 }
 //post {
-    always{
+ //   always{
 
-    }
+    
 //}
-}
+
