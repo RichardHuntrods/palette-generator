@@ -89,7 +89,8 @@ export HOSTNAME="Servy McServerface"
 A script has been provided that will start the application running as a *daemon* process. It can be run with the command:
 
 ```bash
-./scripts/deploy.sh
+./scripts/deploy.sh 
+//great
 ```
 
 This will start the *daemon* service running as a `systemd` process named `palette-generator`. You can check the status of the application by running:
